@@ -1,0 +1,93 @@
+
+body{
+    margin:0;
+    padding:0;
+  background-color: gray;  
+  font-family: 'Oxanium', cursive;
+}
+.container{
+    max-width:1000px;
+    background-color: antiquewhite;
+    margin:0 auto; 
+    padding:15px;
+}
+.profile-pic{
+    height:250px;
+    width:200px;
+    border:5px solid pink;
+    float:left;
+}
+.header-bio{
+    float:left;
+    padding:30px;
+}
+h1,h2{
+    color:skyblue;
+    
+}
+h3{
+    color:plum;
+}
+.header-contact-link{
+    float:right;
+    padding:30px;
+}
+.div-clear{
+    clear:both;
+}
+hr{
+    border:solid black 3px;
+    margin-top: 30px;
+    width:100%;
+    border-bottom:none;
+}
+
+.left-div{
+    color:skyblue;
+    float:left;
+    width:30%;
+}
+.right-div{
+    float:right;
+    width:70%;
+}
+.commonhorizontal-rule{
+    border:solid black 1px;
+    border-bottom:none;
+    width:100%;
+    margin: auto;
+}
+.vector-image{
+    height:100px;
+    width:100px;
+}
+.leftRight-div{
+    width:36%;
+    float:left;
+    
+    }
+    .rightRight-div{
+        width:36%;
+        float:right;
+        
+        }
+
+        .footer-style{
+            background-color:black;
+        text-align:center;
+        padding: 10px;
+        }
+
+        .footer-style a{
+            color:white;
+            text-decoration:none;
+            margin:20px;
+        }
+        .footer-style a:hover{
+            text-decoration: underline;
+        }
+
+        .footer-style p{
+            color:white;
+
+        }
